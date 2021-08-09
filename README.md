@@ -35,7 +35,7 @@ show DATABASES;
 use uvslog;
 ```
 
-[mysql(https://www.cnblogs.com/sablier/p/11605606.html)  
+[mysql](https://www.cnblogs.com/sablier/p/11605606.html)  
 
 
 
